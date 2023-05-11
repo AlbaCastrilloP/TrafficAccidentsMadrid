@@ -472,9 +472,6 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-.responsive-image {
-  max-width: 100%;
-}
 
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
